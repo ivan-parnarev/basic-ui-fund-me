@@ -34,6 +34,7 @@ If you'd like to run with prettier formatting, or don't have a way to run your f
 
 ```
 yarn
+yard add --dev http-server
 yarn http-server
 ```
 
