@@ -39,8 +39,6 @@ yarn http-server
 
 And you should see a small button that says "connect".
 
-![Connect](connect.png)
-
 Hit it, and you should see metamask pop up.
 
 # Execute a transaction
