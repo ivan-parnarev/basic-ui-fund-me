@@ -64,8 +64,6 @@ In your `constants.js` file, update the variable `contractAddress` with the addr
 
 3. Connect your [metamask](https://metamask.io/) to your local hardhat blockchain.
 
-> **PLEASE USE A METAMASK ACCOUNT THAT ISNT ASSOCIATED WITH ANY REAL MONEY.**
-
 In the output of the above command, take one of the private key accounts and [import it into your metamask.](https://metamask.zendesk.com/hc/en-us/articles/360015489331-How-to-import-an-Account)
 
 Additionally, add your localhost with chainid 31337 to your metamask.
